@@ -9,9 +9,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-> Desarrollo software que resuelve problemas reales — desde sistemas de pagos para farmacias hasta diagnóstico con IA para producción porcina. Si el código no llega al campo, no sirve.
+> Desarrollo software que resuelve problemas reales — desde sistemas de pagos para farmacias hasta diagnóstico aplicado a producción porcina. Si el código no llega al campo, no sirve.
 
 ---
 
@@ -25,11 +26,11 @@ Plataforma full-stack con Laravel 12 + Vue 3 / Vuetify, PostgreSQL, control de c
 **Stack:** Laravel 12 · Vue 3 · Vuetify · PostgreSQL · Hostinger VPS
 
 ### 🐷 CerdoApp / LlanosAI
-> Diagnóstico inteligente de mortalidad porcina con IA.
+> Diagnóstico y monitoreo de mortalidad porcina.
 
-App móvil para monitoreo de salud en granjas porcinas. Capacidades offline con SQLite, sincronización automática y análisis potenciado por inteligencia artificial. Desarrollada con React Native + Expo.
+App móvil para registro y seguimiento de salud en granjas porcinas. Capacidades offline con SQLite, sincronización automática y asistencia de IA como herramienta de apoyo al diagnóstico. Desarrollada con React Native + Expo.
 
-**Stack:** React Native · Expo · SQLite · AI Integration
+**Stack:** React Native · Expo · SQLite
 
 ### 🏢 Cerdos de los Llanos — Herramientas Internas
 > Soluciones a medida para la operación agropecuaria.
@@ -43,9 +44,10 @@ Portal de empleados con funciones sociales (feed, reacciones, perfiles), sistema
 ## Lo que hago
 
 - **Construyo soluciones de punta a punta** — Backend, frontend, deploy y mantenimiento
-- **Llevo la tecnología al agro** — Automatización e IA aplicada a producción porcina
+- **Llevo la tecnología al agro** — Automatización y herramientas digitales para producción porcina
 - **Priorizo seguridad y producción** — RBAC, hardening, backups, código limpio y profesional
-- **Aprendo construyendo** — Cada proyecto es una oportunidad de dominar una herramienta nueva
+- **Siempre aprendiendo** — Actualmente metiéndome de lleno en .NET y C#
+- **IA como herramienta de consulta** — Uso inteligencia artificial como referencia y apoyo, no como reemplazo del desarrollo
 
 ---
 
@@ -75,8 +77,8 @@ Portal de empleados con funciones sociales (feed, reacciones, perfiles), sistema
 
 - 🐷 Trabajo rodeado de cerdos (literalmente)
 - 🧉 Mate y código: la combinación perfecta
-- 🇦🇷 Orgullosamente ColomboArgentino
-- 🤖 Fan de Claude para desarrollo asistido por IA
+- 🇦🇷 Orgullosamente riojano
+- 📚 Aprendiendo .NET porque nunca es suficiente stack
 - 🔒 Obsesionado con la seguridad en producción
 
 </details>

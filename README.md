@@ -1,84 +1,65 @@
-# Hola, soy Jhony Eduardo 🐷
+# Hola, soy Jhony Eduardo
 
-📍 **La Rioja, Argentina** | 💻 **Full-Stack Developer** | 🌾 **Tech meets Agro**
+📍 La Rioja, Argentina  
+💻 Desarrollador Full-Stack  
 
+---
+
+## Tecnologías
+
+### Backend
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Frontend
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Base de Datos
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-> Desarrollo software que resuelve problemas reales — desde sistemas de pagos para farmacias hasta diagnóstico aplicado a producción porcina. Si el código no llega al campo, no sirve.
-
----
-
-## Proyectos Actuales
-
-### 🏥 Farmanor Pay
-> Sistema integral de pagos y gestión de créditos para farmacias.
-
-Plataforma full-stack con Laravel 12 + Vue 3 / Vuetify, PostgreSQL, control de cuotas, permisos por roles y reportes financieros detallados. Desplegado en producción con hardening de seguridad, SSL y backups automatizados.
-
-**Stack:** Laravel 12 · Vue 3 · Vuetify · PostgreSQL · Hostinger VPS
-
-### 🐷 CerdoApp / LlanosAI
-> Diagnóstico y monitoreo de mortalidad porcina.
-
-App móvil para registro y seguimiento de salud en granjas porcinas. Capacidades offline con SQLite, sincronización automática y asistencia de IA como herramienta de apoyo al diagnóstico. Desarrollada con React Native + Expo.
-
-**Stack:** React Native · Expo · SQLite
-
-### 🏢 Cerdos de los Llanos — Herramientas Internas
-> Soluciones a medida para la operación agropecuaria.
-
-Portal de empleados con funciones sociales (feed, reacciones, perfiles), sistema de gestión de tareas con metodologías ágiles, y múltiples herramientas de administración interna.
-
-**Stack:** Vue.js · PHP · PostgreSQL · Supabase
+### DevOps & Infraestructura
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Lo que hago
+## Sobre mí
 
-- **Construyo soluciones de punta a punta** — Backend, frontend, deploy y mantenimiento
-- **Llevo la tecnología al agro** — Automatización y herramientas digitales para producción porcina
-- **Priorizo seguridad y producción** — RBAC, hardening, backups, código limpio y profesional
-- **Siempre aprendiendo** — Actualmente metiéndome de lleno en .NET y C#
-- **IA como herramienta de consulta** — Uso inteligencia artificial como referencia y apoyo, no como reemplazo del desarrollo
+Desarrollo sistemas orientados a problemas reales, principalmente en el rubro agro y financiero.
 
----
+Trabajo fuerte en backend, diseño de APIs y lógica de negocio, integrando frontend, base de datos y despliegue en entornos productivos.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/CodeByJohnny)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByJohnny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByJohnny&layout=compact&theme=tokyonight&hide_border=true)
+También gestiono infraestructura y despliegues sobre Linux, incluyendo configuración de servicios, automatización y mantenimiento.
 
 ---
 
-## Conectemos
+## Forma de trabajo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CodeByJohnny)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeByJohnny)
+- Desarrollo de punta a punta (backend, frontend y deploy)
+- Diseño de APIs y sistemas escalables
+- Enfoque en estabilidad y funcionamiento en producción
+- Implementación de seguridad básica (auth, roles, validaciones)
+- Código claro, mantenible y orientado a negocio
 
 ---
 
-### Filosofía
+## Actualmente
 
-> "El código que no resuelve un problema real es solo texto bonito." — Construyo herramientas que funcionan en el mundo real, donde el WiFi es inestable y los usuarios necesitan respuestas, no excusas.
+- Profundizando en .NET y C#
+- Mejorando arquitectura de APIs y servicios backend
+- Automatizando despliegues y procesos
 
-<details>
-<summary>Datos random</summary>
+---
 
-- 🐷 Trabajo rodeado de cerdos (literalmente)
-- 🧉 Mate y código: la combinación perfecta
-- 🇦🇷 Orgullosamente riojano
-- 📚 Aprendiendo .NET porque nunca es suficiente stack
-- 🔒 Obsesionado con la seguridad en producción
+## Contacto
 
-</details>
+- LinkedIn: https://www.linkedin.com/in/CodeByJohnny
+- GitHub: https://github.com/CodeByJohnny
